@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+#details {
+
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(251, 10, 10);
+}
